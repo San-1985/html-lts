@@ -1,2 +1,2 @@
 # html-lts
-HTML Project - The Little Taco Shop (Dave Gray HTML Course)
+HTML Project - The Little Taco Shop (Freecodecamp HTML Course by Dave Gray)
